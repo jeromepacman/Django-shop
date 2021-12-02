@@ -1,6 +1,6 @@
-asgiref==3.3.4
+asgiref
 Django
-pytz==2021.1
-sqlparse==0.4.1
-uWSGI==2.0.19.1
-Pillow==8.2.0
+pytz
+sqlparse
+uWSGI
+Pillow
